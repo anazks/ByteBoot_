@@ -2232,6 +2232,7 @@ responsive
   margin-top: 10px;
 }
 .scrolImage{
-  
-
+  height: 80%;
+  width: 50%;
+  margin: auto;
 }
